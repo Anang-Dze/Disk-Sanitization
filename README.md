@@ -51,7 +51,7 @@ This tool is ideal for real-world IT security and support scenarios, including:
 
 - **End-of-life device disposal**: Securely wipe HDDs, SSDs, and removable media before recycling, donation, resale, or decommissioning to protect sensitive data.
 - **Compliance and regulatory requirement**: 
-Achieve verifiable sanitization per **NIST SP 800-88** guidelines (Clear, Purge, Destory metjods) for audits in regulated industries.
+Achieve verifiable sanitization per **NIST SP 800-88** guidelines (Clear, Purge, Destory methods) for audits in regulated industries.
 -**Incident response and breach containment**: Quickly erase potentially compromised drives to remove malware or sentitive data during security incidents.
 
 
