@@ -43,7 +43,7 @@ Sanitization complete:  <br/>
 <br />
 
 <h2>Problems Solved by Disk Sanitization</h2>
-Disk sanitization addresses critical security risk associated with data remanence, the residual tracesof data that remain on storage media even after deletion or formatting.
+Disk sanitization addresses critical security risk associated with data remanence, the residual traces of data that remain on storage media even after deletion or formatting.
 
 ## Use Cases
 
